@@ -1,0 +1,13 @@
+#num2{
+	color: blue;
+	border: 5px dotted red;
+	font-size: 20px;
+}
+.num1{
+	background-color: darkgrey;
+	border: 5px solid brown;
+}
+#num1{
+	border: 5px dashed gray;
+	background-color: gray;
+}
